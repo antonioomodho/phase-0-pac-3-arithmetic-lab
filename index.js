@@ -47,6 +47,6 @@ function  increment(n) {
     return (parseInt(n, 10))
   }
   function preserveDecimal(n) {
-    (parseFloat(n))
+    (parseFloat(2.222))
     return  (parseFloat(n))
 }
